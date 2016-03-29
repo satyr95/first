@@ -1,2 +1,1 @@
-# first
-first problem from udacity course
+this is my test program
